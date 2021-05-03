@@ -1,0 +1,17 @@
+{
+  "name": "iodinepvp-bot",
+  "version": "1.0.0",
+  "description": "Disord bot for IodinePVP staff",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "author": "NJWF1#0577",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "walk": "^2.3.14"
+  }
+}
